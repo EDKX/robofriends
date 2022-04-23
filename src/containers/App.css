@@ -1,0 +1,28 @@
+/*taken from https://www.cufonfonts.com/font/abc_logo*/
+/*@font-face {
+	font-family: 'abc_logo_1';  
+	font-style: normal;
+	font-weight: normal;
+	src: local('abc_logo_1'), url('fonts/abc_logo_1.ttf') format('ttf');
+}*/
+
+/*h1 {
+	font-family: 'abc_logo_1';
+	font-weight: 200;
+	color: #0ccac4;
+}*/
+
+
+/*taken from https://www.cufonfonts.com/font/sega-logo-font*/
+@font-face {
+	font-family: 'SEGA LOGO FONT'; 
+	font-style: normal;
+	font-weight: normal;
+	src: local('SEGA LOGO FONT'), url('../fonts/SEGA.woff') format('woff');
+}
+
+h1 {
+	font-family: 'SEGA LOGO FONT';
+	font-weight: 200;
+	color: #0ccac4;
+}
